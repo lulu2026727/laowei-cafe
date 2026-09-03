@@ -1,0 +1,12 @@
+# 系统与隐藏文件
+.DS_Store
+Thumbs.db
+
+# 本地代码索引 / 工作记录（不上传）
+.codegraph
+.omo
+
+# 临时备份
+/tmp/
+*.pyc
+__pycache__/
